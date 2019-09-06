@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567724624 source:/home/alumno/Descargas/Clase4P/Clase Arrays/Arrays/funcionesArrays.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesArrays.h"
+
+1567724086 /home/alumno/Descargas/Clase4P/Clase Arrays/Arrays/funcionesArrays.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionesArrays.h"
+
